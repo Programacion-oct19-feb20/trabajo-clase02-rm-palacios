@@ -1,0 +1,13 @@
+¿Qué es un programa?
+Son un conjunto de instrucciones que permiten ordenar a un computador 
+el proceso de resolución de un problema.
+
+Lenguajes de Programación
+Son lenguajes formales que permiten comunicarse con el computador
+las necesidades a solucionar  a través de instrucciones.
+Ejemplos: python, c, c++, java, php, ruby, etc. 
+
+Elementos de los Lenguajes de Programción 
+1. Alfabeto o conjunto de caracteres
+2. Vocabulario o léxico
+3. Grámatica
